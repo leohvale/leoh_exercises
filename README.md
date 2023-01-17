@@ -1,2 +1,6 @@
-# leoh_exercises
-Ebac Exercises
+
+# Exercicios EBAC
+
+> ##### Repositório destinado a armazenar os exercícios realizados da EBAC.
+
+
